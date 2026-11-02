@@ -1,4 +1,4 @@
-var who66='world';
+var who66 ='world';
 fuction sayhello66(){
   alert('Hello,'+who66+'!');
 }
