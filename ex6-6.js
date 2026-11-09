@@ -1,7 +1,7 @@
 var who66 ='world';
-fuction sayhello66(){
+function sayhello66(){
   alert('Hello,'+who66+'!');
 }
-fuction someone(x){
+function someone(x){
   who66=x;
 }
