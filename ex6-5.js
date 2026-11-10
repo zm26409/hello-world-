@@ -9,10 +9,10 @@ function hanako65(){
   who65='花子'
 }
 function taro65(){
-  alert('who65'+'が来た'+'!');
+  alert('太郎'+'が来た'+'!');
 }
 function hanako65(){
-  alert('who65'+'が来た'+'!');
+  alert('花子'+'が来た'+'!');
 }
 
 
