@@ -6,13 +6,13 @@ function taro65(){
   who65 ='太郎';
 }
 function hanako65(){
-  who65 ='花子'
+  who65 ='花子';
 }
 function taro65(){
-  alert('太郎'+'が来た'+'!');
+  alert('who65'+'が来た'+'!');
 }
 function hanako65(){
-  alert('花子'+'が来た'+'!');
+  alert('who65'+'が来た'+'!');
 }
 
 
