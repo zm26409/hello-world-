@@ -8,6 +8,14 @@ function taro65(){
 function hanako65(){
   who65 ='花子';
 }
+var who65 ='太郎';
+function taro65(){
+  alert(who65+'が来た')
+}
+var who65 ='花子';
+function hanako65(){
+  alert(who65+'が来た')
+}
 
 
 
