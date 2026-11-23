@@ -7,10 +7,11 @@ function come65(){
 }
 function taro65(){
   who65 ='太郎';
-  come();
+  come65();
 }
 function hanako65(){
   who = '花子';
+  come65();
 }
 
 
