@@ -12,9 +12,9 @@ var whe65 ='太郎';
 function taro65(){
   alert(whe65+'が来た')
 }
-var whe65 ='花子';
+var whi65 ='花子';
 function hanako65(){
-  alert(whe65+'が来た')
+  alert(whi65+'が来た')
 }
 
 
