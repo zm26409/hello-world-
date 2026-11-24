@@ -4,5 +4,5 @@ function imgchange1(){
 }
 function imgback1(){
   document.betElementByld('logo').src='./image/球.jpg';
-  document.GetElementByld('logo').alt='球'
+  document.GetElementByld('logo').alt='球';
 }
