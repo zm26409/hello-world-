@@ -1,3 +1,3 @@
 function txtchange1(){
-  document.getElemenyByld('txt1').innerHTML=ナンバーワン!';
+  document.getElemenyByld('txy1').innerHTML=ナンバーワン!';
 }
